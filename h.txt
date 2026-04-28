@@ -1,1 +1,1 @@
-Hello karthik using the clone
+Hello karthik using the clone type in git
