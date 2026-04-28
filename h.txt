@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello karthik using the clone type in git and git type
-=======
 Hello karthik using the clone type in git ad git 
->>>>>>> main
